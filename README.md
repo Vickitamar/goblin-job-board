@@ -1,4 +1,5 @@
 # my-api-project
+<img width="1685" height="987" alt="Screenshot 2026-03-03 at 14 32 58" src="https://github.com/user-attachments/assets/99a317db-773e-46fa-89f7-5d9ed386180f" />
 
 Express API with a React frontend. The API serves users and jobs (MongoDB/Mongoose); the client is a Vite + React app with a jobs landing page that calls the getJobs API.
 
